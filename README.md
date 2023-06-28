@@ -1,4 +1,11 @@
-# repo-search
+### repo-search
+
+## Video demo
+
+https://github.com/Prash88/repo-search/assets/3067366/9aa367fa-5c32-43b6-9dfe-d97db5115fd5
+
+
+## commands
 
 To run the code
 `docker-compose up --build`
