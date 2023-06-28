@@ -2,7 +2,10 @@
 
 ### Video demo
 
-https://github.com/Prash88/repo-search/assets/3067366/9aa367fa-5c32-43b6-9dfe-d97db5115fd5
+
+
+https://github.com/Prash88/repo-search/assets/3067366/dcf21011-90fa-44f0-8b4d-c14d0d619df9
+
 
 
 ### Commands
