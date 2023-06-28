@@ -1,9 +1,21 @@
 # repo-search
 
 To run the code
-docker-compose up --build
+`docker-compose up --build`
 
-Then run web app from browser in 
+This ll start the docker container with repo server running at port 8080
 
-docker-compose up
+Then run the following commands
+
+`cd repo-search`
+
+`npm install`
+
+To run ios app
+
+`npm run ios` 
+
+To run android app
+`npm run ios`
+
 
