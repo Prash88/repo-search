@@ -16,6 +16,7 @@ To run ios app
 `npm run ios` 
 
 To run android app
+
 `npm run ios`
 
 
